@@ -1,4 +1,4 @@
-# Chapter 2 Ladder
+# Chapter 1 Ladder
 
 <a name="9vEjf"></a>
 ## 37. Reverse 3-digit Integer
